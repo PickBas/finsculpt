@@ -1,0 +1,2 @@
+# finsculpt
+Internet banking API
